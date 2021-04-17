@@ -1,0 +1,11 @@
+colors:
+
+#1D3557
+#E63946
+#FFFFFF
+#457B9D
+#F1FAEE
+#FFE8D6
+#A8DADC
+
+

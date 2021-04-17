@@ -1,0 +1,10 @@
+button {
+    background-color: #E63946;
+    padding: 0.5rem 2rem;
+    border-radius: 2rem;
+    border: none;
+}
+
+button a {
+    color: white;
+}

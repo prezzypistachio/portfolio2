@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+}
+
+img {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+.big {
+    color: #1D3557;
+    font-size: 6rem;
+    font-weight: bold;
+    filter: drop-shadow(1px 1px #999)
+}
+
+.medium {
+    color: #457B9D;
+    font-size: 3rem;
+    font-weight: bold;
+    filter: drop-shadow(1px 1px #999)
+}
